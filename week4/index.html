@@ -6,35 +6,62 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Doogle CG</title>
+    <link rel="stylesheet" href="./style.css">
 </head>
 
 <body>
-    <h2>Welcome, to the Doogle</h2>
-    <h1>Crossbreed Generator</h1>
-    <br>
-    <h3>Please choose two dogs:</h3>
+    <div class="background">
+        <div class="header">
+            <div id="welcome">
+                <h3>Welcome to the Doogle</h3>
+            </div>
+            <div id="title">
+                <h1>Crossbreed Generator</h1>
+            </div>
+        </div>
+        <h3>Please choose two dogs:</h3>
+        <div class="dropboxes">
 
-    <form>
-        <label>Dog one:
-            <select class="firstDogSelection" id="selectDog1" name="firstDog">
-                <option></option>
-            </select>
-        </label>
+            <div id="dropbox1">
+                <form>
+                    <label>Dog one:
+                        <select class="firstDogSelection" id="selectDog1" name="firstDog">
+                            <option></option>
+                        </select>
+                    </label>
+                </form>
+            </div>
+            <div id="dropbox2">
+                <form>
+                    <label>Dog two:
+                        <select class="secondDogSelection" id="selectDog2" name="secondDog">
+                            <option></option>
+                        </select>
+                    </label>
+                </form>
+            </div>
+        </div>
+        <br>
+        <div class="choices">
+            <div id="first">
+                <div class="choiceOne"></div>
+                <br>
+                <img id="img1">
+            </div>
+            <div id="second">
+                <div class="choiceTwo"></div>
+                <br>
+                <img id="img2">
+            </div>
+        </div>
+        <br>
 
-        <label>Dog two:
-            <select class="secondDogSelection" id="selectDog2" name="secondDog">
-                <option></option>
-            </select>
-        </label>
-    </form>
-    <br>
-    <div class="choiceOne"></div>
-    <img src="">
-    <div class="choiceTwo"></div>
-    <br>
-    <p>Crossbreed:</p>
-    <div class="result"></div>
-
+        <h3>Crossbreed:</h3>
+        <div class="result"></div>
+        <br>
+        <img id="crossbreedImage">
+    </div>
+    
     <script src="main.js"></script>
 </body>
 

@@ -1,0 +1,45 @@
+#img1, #img2 {
+    height: 20vh;
+    width: auto;
+}
+
+.choices {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#crossbreedImage {
+    display: flex;
+    justify-content: center;
+    width: 50vw;
+    height: auto;
+}
+
+.dropboxes {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+#welcome h3, #title h1 {
+    display: flex;
+    justify-content: center;
+}
+
+/* body {
+    background-image: url("./images/background.jpg");
+} */
+
+/* .background {
+    width: 200px;
+    height: 200px;
+    display: block;
+    position: relative;
+} */
+
+/* body {
+    width: 100vw;
+    height: 100vh;
+    opacity: 0.5; 
+} */

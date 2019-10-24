@@ -1,40 +1,41 @@
 let dogList1 = [       /// -2 off line number
     "Akita",
     "American Eskimo Dog",
-    "Australian Cattle Dog",          
-    "Australian Shepherd", 
-    "Basset Hound",            
-    "Beagle", 
-    "Bernese Mountain Dog",                        
-    "Bichon Frise",                   
-    "Border Collie",                  
+    "Australian Cattle Dog",
+    "Australian Shepherd",
+    "Basset Hound",
+    "Beagle",
+    "Bernese Mountain Dog",
+    "Bichon Frise",
+    "Border Collie",
     "Boston Terrier",
     "Boxer",
     "Bulldog",
-    "Cavalier King Charles Spaniel",   
-    "Chihuahua",                      
-    "Cocker Spaniel",   
-    "Corgi",              
+    "Cavalier King Charles Spaniel",
+    "Chihuahua",
+    "Chow Chow",
+    "Cocker Spaniel",
+    "Corgi",
     "Dachshund",
     "Dalmation",
-    "German Shepherd",                     
-    "Golden Retriever",           
+    "German Shepherd",
+    "Golden Retriever",
     "Husky",
-    "Jack Russell",                   
-    "Labrador", 
-    "Malamute",                      
-    "Maltese",                        
-    "Papillon",                      
+    "Jack Russell",
+    "Labrador",
+    "Malamute",
+    "Maltese",
+    "Papillon",
     "Pekingese",
-    "Pomeranian",                      
-    "Poodle",                         
-    "Pug", 
-    "Rottweiler",                           
-    "Schnauzer",                      
-    "Shar-Pei", 
-    "Shetland Sheepdog",     
+    "Pomeranian",
+    "Poodle",
+    "Pug",
+    "Rottweiler",
+    "Schnauzer",
+    "Shar-Pei",
+    "Shetland Sheepdog",
     "Shih-Tzu",
-    "Springer Spaniel",                                         
+    "Springer Spaniel",
     "Yorkie"
 ]
 
@@ -74,13 +75,16 @@ let crossbeeds = {
     Cavapoo: ["Cavalier King Charles Spaniel", "Poodle"],
     Cheeks: ["Chihuahua", "Pekingese"],
     Chigi: ["Chihuahua", "Corgi"],
+    Chihuahua_Husky: ["Chihuahua", "Husky"],
     Chion: ["Chihuahua", "Papillon"],
     Chiweenie: ["Chihuahua", "Dachshund"],
     Chorkie: ["Chihuahua", "Yorkie"],
     Chug: ["Chihuahua", "Pug"],
+    Chusky: ["Chow Chow", "Husky"],
     Cockalier: ["Cavalier King Charles Spaniel", "Cocker Spaniel"],
     Cockapoo: ["Cocker Spaniel", "Poodle"],
     Cocker_Corgi: ["Cocker Spaniel", "Corgi"],
+    Cocker_Pei: ["Cocker Spaniel", "Shar-Pei"],
     Cojack: ["Corgi", "Jack Russell"],
     Corger: ["Boxer", "Corgi"],
     Corgi_Basset: ["Basset Hound", "Corgi"],
@@ -116,7 +120,6 @@ let crossbeeds = {
     Labradoodle: ["Labrador", "Poodle"],
     Labrashepherd: ["German Shepherd", "Labrador"],
     Mal_Shi: ["Maltese", "Shih-Tzu"],
-    Mini_Hippo: ["Cocker Spaniel", "Shar-Pei"],
     Miniature_Boxer: ["Boston Terrier", "Boxer"],
     Miniature_Bulldog: ["Bulldog", "Pug"],
     Maltichon: ["Bichon Frise", "Maltese"],
@@ -142,7 +145,7 @@ let crossbeeds = {
     Sheepgi: ["Corgi", "Sheepdog"],
     Sheltie_Heeler: ["Australian Cattle Dog", "Shetland Sheepdog"],
     Sheltie_Shepherd: ["German Shepherd", "Shetland Sheepdog"],
-    Sheltiedoodle: ["Poodle", "Shetland Sheepdog"],
+    Sheltidoodle: ["Poodle", "Shetland Sheepdog"],
     Shepkita: ["Akita", "German Shepherd"],
     Shi_Chi: ["Chihuahua", "Shih-Tzu"],
     Shih_Poo: ["Poodle", "Shih-Tzu"],
@@ -155,16 +158,78 @@ let crossbeeds = {
     Springador: ["Labrador", "Springer Spaniel"],
     Sprocker: ["Cocker Spaniel", "Springer Spaniel"],
     Sprollie: ["Border Collie", "Springer Spaniel"],
-    Texas_Healer: ["Australian Cattle Dog", "Australian Shepherd"],
+    Texas_Heeler: ["Australian Cattle Dog", "Australian Shepherd"],
     Valley_Bulldog: ["Boxer", "Bulldog"],
-    Yorkiepoo: ["Poodle", "Yorkie"],
+    Yorki_Poo: ["Poodle", "Yorkie"],
     Zuchon: ["Bichon Frise", "Shih-Tzu"]
 }
 
+let crossbeedImages = {
+    "./images/crossbreeds/alaskan_shepherd.jpg": "Alaskan_Shepherd",
+    "./images/crossbreeds/augie.jpg": "Augie",
+    "./images/crossbreeds/ausky.jpg": "Ausky",
+    "./images/crossbreeds/aussiedoodle.jpg": "Aussiedoodle",
+    "./images/crossbreeds/bagle.jpg": "Bagle",
+    "./images/crossbreeds/baskimo.jpg": "Baskimo",
+    "./images/crossbreeds/bassador.jpg": "Bassador",
+    "./images/crossbreeds/baussie.jpg": "Baussie",
+    "./images/crossbreeds/bichpoo.jpg": "Bichpoo",
+    "./images/crossbreeds/beagi.jpg": "Beagi",
+    "./images/crossbreeds/borgi.jpg": "Borgi",
+    "./images/crossbreeds/boxador.jpg": "Boxador",
+    "./images/crossbreeds/bulldorgi.jpg": "Bulldorgi",
+    "./images/crossbreeds/cavaCorgi.jpg": "Cava_Corgi",
+    "./images/crossbreeds/cavachon.jpg": "Cavachon",
+    "./images/crossbreeds/cavapoo.jpg": "Cavapoo",
+    "./images/crossbreeds/cheeks.jpg": "Cheeks",
+    "./images/crossbreeds/chihuahuaHusky.jpg": "Chihuahua_Husky",
+    "./images/crossbreeds/chorkie.jpg": "Chorkie",
+    "./images/crossbreeds/chusky.jpg": "Chusky",
+    "./images/crossbreeds/cockapoo.jpg": "Cockapoo",
+    "./images/crossbreeds/cockerPei.jpg": "Cocker_Pei",
+    "./images/crossbreeds/cojack.jpg": "Cojack",
+    "./images/crossbreeds/corgidor.jpg": "Corgidor",
+    "./images/crossbreeds/corgiever.jpg": "Corgiever",
+    "./images/crossbreeds/corgipom.jpg": "Corgipom",
+    "./images/crossbreeds/corgipoo.jpg": "Corgipoo",
+    "./images/crossbreeds/corgitian.jpg": "Corgitian",
+    "./images/crossbreeds/corkie.jpg": "Corkie",
+    "./images/crossbreeds/dalmador.jpg": "Dalmador",
+    "./images/crossbreeds/doxiepoo.jpg": "Doxiepoo",
+    "./images/crossbreeds/eskijack.jpg": "Eskijack",
+    "./images/crossbreeds/goldendoodle.jpg": "Goldendoodle",
+    "./images/crossbreeds/jackapoo.jpg": "Jackapoo",
+    "./images/crossbreeds/labradoodle.jpg": "Labradoodle",
+    "./images/crossbreeds/malShi.jpg": "Mal_Shi",
+    "./images/crossbreeds/maltichon.jpg": "Maltichon",
+    "./images/crossbreeds/maltipoo.jpg": "Maltipoo",
+    "./images/crossbreeds/papipoo.jpg": "Papipoo",
+    "./images/crossbreeds/pomapoo.jpg": "Pomapoo",
+    "./images/crossbreeds/porgi.jpg": "Porgi",
+    "./images/crossbreeds/schnoodle.jpg": "Schnoodle",
+    "./images/crossbreeds/sharberianHusky.jpg": "Sharberian_Husky",
+    "./images/crossbreeds/sheltidoodle.jpg": "Sheltidoodle",
+    "./images/crossbreeds/shepkita.jpg": "Shepkita",
+    "./images/crossbreeds/shollie.jpg": "Shollie",
+    "./images/crossbreeds/shorkie.jpg": "Shorkie",
+    "./images/crossbreeds/sprocker.jpg": "Sprocker",
+    "./images/crossbreeds/texasHeeler.jpg": "Texas_Heeler",
+    "./images/crossbreeds/valleyBulldog.jpg": "Valley_Bulldog",
+    "./images/crossbreeds/yorkiPoo.jpg": "Yorki_Poo",
+    "./images/crossbreeds/zuchon.jpg": "Zuchon"
+}
+
+////////////////////////////Objects and Arrays///////////////////////////////////
+
+let dogImages;
 let dropdown1 = document.getElementById("selectDog1");
+const firstDogChoice = document.querySelector('.firstDogSelection');
+const secondDogChoice = document.querySelector('.secondDogSelection');
+
+//////////////////////////////////Variables//////////////////////////////////////
 
 const populateList = (array, dropdown) => {
-    for(let i = 0; i < array.length; i++) {
+    for (let i = 0; i < array.length; i++) {
         let option = array[i];
         let anotherDog = document.createElement("option");
         anotherDog.text = option;
@@ -173,64 +238,135 @@ const populateList = (array, dropdown) => {
     }
 }
 
-populateList(dogList1, dropdown1)
+function displayImage(){
+    dogImages = [
+        null,
+        "./images/dogs/akita.jpg",
+        "./images/dogs/americanEskimoDog.jpg",
+        "./images/dogs/australianCattleDog.jpg",
+        "./images/dogs/australianShepherd.jpg",
+        "./images/dogs/bassetHound.jpg",
+        "./images/dogs/beagle.jpg",
+        "./images/dogs/berneseMountainDog.jpg",
+        "./images/dogs/bichonFrise.jpg",
+        "./images/dogs/borderCollie.jpg",
+        "./images/dogs/bostonTerrier.jpg",
+        "./images/dogs/boxer.jpg",
+        "./images/dogs/bulldog.jpg",
+        "./images/dogs/cavKingCharlesSpaniel.jpg",
+        "./images/dogs/chihuahua.jpg",
+        "./images/dogs/chowChow.jpg",
+        "./images/dogs/cockerSpaniel.jpg",
+        "./images/dogs/corgi.jpg",
+        "./images/dogs/dachshund.jpg",
+        "./images/dogs/dalmation.jpg",
+        "./images/dogs/germanShepherd.jpg",
+        "./images/dogs/goldenRetriever.jpg",
+        "./images/dogs/husky.jpg",
+        "./images/dogs/jackRussell.jpg",
+        "./images/dogs/labrador.jpg",
+        "./images/dogs/malamute.jpg",
+        "./images/dogs/maltese.jpg",
+        "./images/dogs/papillon.jpg",
+        "./images/dogs/pekingese.jpg",
+        "./images/dogs/pomeranian.jpg",
+        "./images/dogs/poodle.jpg",
+        "./images/dogs/pug.jpg",
+        "./images/dogs/rottweiler.jpg",
+        "./images/dogs/schnauzer.jpg",
+        "./images/dogs/sharPei.jpg",
+        "./images/dogs/shetlandSheepdog.jpg",
+        "./images/dogs/shihTzu.jpg",
+        "./images/dogs/springerSpaniel.jpg",
+        "./images/dogs/yorkie.jpg"
+    ]
+    let index = document.getElementById('selectDog1').selectedIndex;
+    document.getElementById('img1').src = dogImages[index];
+
+    dogImages.splice(index, 1)
+
+    return dogImages
+}
+
+function displayImage2(){
+    let index2 = document.getElementById('selectDog2').selectedIndex;
+    document.getElementById('img2').src = dogImages[index2];
+}
 
 const filterDogList = (firstDog) => {
     let newArray = dogList1.filter(dog => dog != firstDog)
     return newArray
 }
 
-class Crossbreed {
-    constructor (dog1, dog2){
-        this.dog1 = dog1
-        this.dog2 = dog2
+const generator = (dog1, dog2) => {
+    for (let [key, value] of Object.entries(crossbeeds)) {
+        if (value.includes(dog1) && value.includes(dog2)) {
+            return (key)
+        }
     }
+    return ("I'm sorry, we don't have a result for that combination at the moment.")
 }
 
-const firstDogChoice = document.querySelector('.firstDogSelection')
+const displayCrossbreed = (crossbreed) => {
+    for (let [key, value] of Object.entries(crossbeedImages)) {
+        if (value.includes(crossbreed)) {
+            return (key)
+        }
+    }
+    // return ("Oops! We dont have an image for this crossbreed yet.")
+}
+///////////////////////////////Functions//////////////////////////////////////////
+
+class Crossbreed {
+    constructor(dog1, dog2, result) {
+        this.dog1 = dog1
+        this.dog2 = dog2
+        this.croosbreed = result
+    }
+}
+/////////////////////////////////////Class/////////////////////////////////////
+
+populateList(dogList1, dropdown1)
 
 firstDogChoice.addEventListener('change', (event) => {
-    let dogChoice1 = event.target.value               
+    let dogChoice1 = event.target.value
 
     const choiceOne = document.querySelector('.choiceOne')
-    choiceOne.textContent = `You chose a ${dogChoice1}`    
+    choiceOne.textContent = `You chose: ${dogChoice1}`
 
-    let dogList2 = filterDogList(dogChoice1)     
+    displayImage()
 
-    let dropdown2 = document.getElementById("selectDog2") 
+    let dogList2 = filterDogList(dogChoice1)
 
-    populateList(dogList2, dropdown2)                        
-    
+    let dropdown2 = document.getElementById("selectDog2")
+
+    populateList(dogList2, dropdown2)
+
     Crossbreed.dog1 = dogChoice1
     console.log(Crossbreed.dog1)
 
     return Crossbreed.dog1 = dogChoice1
 })
 
-const secondDogChoice = document.querySelector('.secondDogSelection')
-
 secondDogChoice.addEventListener('change', (event) => {
 
     let dogChoice2 = event.target.value
 
     const choiceTwo = document.querySelector('.choiceTwo')
-    choiceTwo.textContent = `You chose a ${dogChoice2}` 
+    choiceTwo.textContent = `Your second choice is: ${dogChoice2}`
+
+    displayImage2()
 
     Crossbreed.dog2 = dogChoice2
     console.log(Crossbreed.dog2)
 
-
+    Crossbreed.result = generator(Crossbreed.dog1, Crossbreed.dog2)
     console.log(generator(Crossbreed.dog1, Crossbreed.dog2))
 
     const result = document.querySelector('.result')
-    result.textContent = `${generator(Crossbreed.dog1, Crossbreed.dog2)}`
-})
+    // result.textContent = `${generator(Crossbreed.dog1, Crossbreed.dog2)}`
+    result.textContent = `${Crossbreed.result}`
 
-const generator = (dog1, dog2) => {
-    for (let [key, value] of Object.entries(crossbeeds)) {
-        if (value.includes(dog1) && value.includes(dog2)) {
-            return(key)
-        }
-    }
-    return("I'm sorry, we don't have a result for that combination at the moment.")
-}
+    let displayResult = displayCrossbreed(Crossbreed.result)
+    document.getElementById('crossbreedImage').src = `${displayResult}`
+})
