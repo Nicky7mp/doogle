@@ -1,0 +1,1398 @@
+{
+    "animals": [{
+            "id": 46574077,
+            "organization_id": "MO324",
+            "url": "https:\/\/www.petfinder.com\/dog\/albert-46574077\/mo\/hollister\/taney-county-animal-care-and-control-mo324\/?referrer_id=f8b0bae7-9948-4533-8806-757b84622693",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Hound",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Black",
+                "secondary": "Gray \/ Blue \/ Silver",
+                "tertiary": "Yellow \/ Tan \/ Blond \/ Fawn"
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Large",
+            "coat": "Short",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": true,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": true,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Albert",
+            "description": null,
+            "photos": [
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574077\/1\/?bust=1573750179\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574077\/1\/?bust=1573750179\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574077\/1\/?bust=1573750179\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574077\/1\/?bust=1573750179"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574077\/2\/?bust=1573750183\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574077\/2\/?bust=1573750183\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574077\/2\/?bust=1573750183\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574077\/2\/?bust=1573750183"
+                }
+            ],
+            "status": "adoptable",
+            "status_changed_at": "2019-11-14T16:49:59+0000",
+            "published_at": "2019-11-14T16:49:59+0000",
+            "distance": null,
+            "contact": {
+                "email": "sherry.simpson@co.taney.mo.us",
+                "phone": "(417) 332-0172",
+                "address": {
+                    "address1": "255 Critter Trail",
+                    "address2": null,
+                    "city": "Hollister",
+                    "state": "MO",
+                    "postcode": "65672",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/46574077"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/mo324"
+                }
+            }
+        },
+        {
+            "id": 46574095,
+            "organization_id": "MO652",
+            "url": "https:\/\/www.petfinder.com\/dog\/stitch-46574095\/mo\/st-louis\/needy-paws-rescue-mo652\/?referrer_id=f8b0bae7-9948-4533-8806-757b84622693",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Chihuahua",
+                "secondary": "Dachshund",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": true,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": true,
+                "dogs": true,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Stitch",
+            "description": "\u0026amp;#39;Ohana means family\n\n. Family means nobody gets left behind or forgotten\u0026amp;#39;\n\nMy name is Stitch, and I am looking...",
+            "photos": [],
+            "status": "adoptable",
+            "status_changed_at": "2019-11-14T16:49:51+0000",
+            "published_at": "2019-11-14T16:49:51+0000",
+            "distance": null,
+            "contact": {
+                "email": "needypawsstl@gmail.com",
+                "phone": " ",
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "St. Louis",
+                    "state": "MO",
+                    "postcode": "63125",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/46574095"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/mo652"
+                }
+            }
+        },
+        {
+            "id": 46574096,
+            "organization_id": "MO652",
+            "url": "https:\/\/www.petfinder.com\/dog\/batman-46574096\/mo\/st-louis\/needy-paws-rescue-mo652\/?referrer_id=f8b0bae7-9948-4533-8806-757b84622693",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Pit Bull Terrier",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": true,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": true,
+                "dogs": true,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Batman",
+            "description": "\u0026amp;#34;It\u0026amp;#39;s not who I am underneath, but what I do that defines me.\u0026amp;#34;\n\nMeet Batman. He\u0026amp;#39;s about 7mos old and...",
+            "photos": [],
+            "status": "adoptable",
+            "status_changed_at": "2019-11-14T16:49:51+0000",
+            "published_at": "2019-11-14T16:49:51+0000",
+            "distance": null,
+            "contact": {
+                "email": "needypawsstl@gmail.com",
+                "phone": " ",
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "St. Louis",
+                    "state": "MO",
+                    "postcode": "63125",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/46574096"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/mo652"
+                }
+            }
+        },
+        {
+            "id": 46574060,
+            "organization_id": "WV37",
+            "url": "https:\/\/www.petfinder.com\/dog\/dolly-46574060\/wv\/dellslow\/animal-friends-of-north-central-west-virginia-wv37\/?referrer_id=f8b0bae7-9948-4533-8806-757b84622693",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Corgi",
+                "secondary": "Terrier",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Brown \/ Chocolate",
+                "secondary": "Golden",
+                "tertiary": "White \/ Cream"
+            },
+            "age": "Adult",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": "Medium",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": true,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": true,
+                "dogs": true,
+                "cats": true
+            },
+            "tags": [],
+            "name": "Dolly",
+            "description": "Hi Dolly ?\n\nMiss Dolly is a 2-3 year old corgi mix, who weighs approximately 30lbs. This little one has...",
+            "photos": [
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574060\/1\/?bust=1573750122\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574060\/1\/?bust=1573750122\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574060\/1\/?bust=1573750122\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574060\/1\/?bust=1573750122"
+                }
+            ],
+            "status": "adoptable",
+            "status_changed_at": "2019-11-14T16:49:06+0000",
+            "published_at": "2019-11-14T16:49:06+0000",
+            "distance": null,
+            "contact": {
+                "email": "afwvdirector@gmail.com",
+                "phone": null,
+                "address": {
+                    "address1": "252 Brewer Road",
+                    "address2": "Morgantown WV 26508",
+                    "city": "Dellslow",
+                    "state": "WV",
+                    "postcode": "26531",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/46574060"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/wv37"
+                }
+            }
+        },
+        {
+            "id": 46574042,
+            "organization_id": "LA356",
+            "url": "https:\/\/www.petfinder.com\/dog\/hadley-46574042\/la\/baton-rouge\/bark-and-roll-rescue-companions-la356\/?referrer_id=f8b0bae7-9948-4533-8806-757b84622693",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Boxer",
+                "secondary": "Shih Tzu",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Bicolor",
+                "secondary": "White \/ Cream",
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Female",
+            "size": "Small",
+            "coat": "Short",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": true,
+                "dogs": true,
+                "cats": true
+            },
+            "tags": [],
+            "name": "Hadley",
+            "description": "Hi I am Hadley! I am a 7 week old (as of 11\/14) boxer\/shih tzu. I know quite a mix...",
+            "photos": [
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574042\/1\/?bust=1573749900\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574042\/1\/?bust=1573749900\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574042\/1\/?bust=1573749900\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574042\/1\/?bust=1573749900"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574042\/2\/?bust=1573749915\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574042\/2\/?bust=1573749915\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574042\/2\/?bust=1573749915\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574042\/2\/?bust=1573749915"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574042\/3\/?bust=1573749918\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574042\/3\/?bust=1573749918\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574042\/3\/?bust=1573749918\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574042\/3\/?bust=1573749918"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574042\/4\/?bust=1573749921\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574042\/4\/?bust=1573749921\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574042\/4\/?bust=1573749921\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574042\/4\/?bust=1573749921"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574042\/5\/?bust=1573749926\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574042\/5\/?bust=1573749926\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574042\/5\/?bust=1573749926\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574042\/5\/?bust=1573749926"
+                }
+            ],
+            "status": "adoptable",
+            "status_changed_at": "2019-11-14T16:48:55+0000",
+            "published_at": "2019-11-14T16:48:55+0000",
+            "distance": null,
+            "contact": {
+                "email": "barkandrollrescuecompanions@gmail.com",
+                "phone": null,
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Baton Rouge",
+                    "state": "LA",
+                    "postcode": "70816",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/46574042"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/la356"
+                }
+            }
+        },
+        {
+            "id": 46574082,
+            "organization_id": "MO620",
+            "url": "https:\/\/www.petfinder.com\/dog\/casserole-46574082\/mo\/house-springs\/camp-chaos-puppy-rescue-mo620\/?referrer_id=f8b0bae7-9948-4533-8806-757b84622693",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Hound",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Casserole",
+            "description": "You can fill out an adoption application online on our official website.\n~~For information on our adoption process and\/or to...",
+            "photos": [],
+            "status": "adoptable",
+            "status_changed_at": "2019-11-14T16:48:08+0000",
+            "published_at": "2019-11-14T16:48:08+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@campchaospuppyrescue.org",
+                "phone": null,
+                "address": {
+                    "address1": "P.O. Box 23",
+                    "address2": null,
+                    "city": "House Springs",
+                    "state": "MO",
+                    "postcode": "63051",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/46574082"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/mo620"
+                }
+            }
+        },
+        {
+            "id": 46574083,
+            "organization_id": "MO620",
+            "url": "https:\/\/www.petfinder.com\/dog\/cranberry-46574083\/mo\/house-springs\/camp-chaos-puppy-rescue-mo620\/?referrer_id=f8b0bae7-9948-4533-8806-757b84622693",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Hound",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Cranberry",
+            "description": "You can fill out an adoption application online on our official website.\n~~For information on our adoption process and\/or to...",
+            "photos": [],
+            "status": "adoptable",
+            "status_changed_at": "2019-11-14T16:48:08+0000",
+            "published_at": "2019-11-14T16:48:08+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@campchaospuppyrescue.org",
+                "phone": null,
+                "address": {
+                    "address1": "P.O. Box 23",
+                    "address2": null,
+                    "city": "House Springs",
+                    "state": "MO",
+                    "postcode": "63051",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/46574083"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/mo620"
+                }
+            }
+        },
+        {
+            "id": 46574084,
+            "organization_id": "MO620",
+            "url": "https:\/\/www.petfinder.com\/dog\/clove-46574084\/mo\/house-springs\/camp-chaos-puppy-rescue-mo620\/?referrer_id=f8b0bae7-9948-4533-8806-757b84622693",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Hound",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Clove",
+            "description": "You can fill out an adoption application online on our official website.\n~~For information on our adoption process and\/or to...",
+            "photos": [],
+            "status": "adoptable",
+            "status_changed_at": "2019-11-14T16:48:08+0000",
+            "published_at": "2019-11-14T16:48:08+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@campchaospuppyrescue.org",
+                "phone": null,
+                "address": {
+                    "address1": "P.O. Box 23",
+                    "address2": null,
+                    "city": "House Springs",
+                    "state": "MO",
+                    "postcode": "63051",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/46574084"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/mo620"
+                }
+            }
+        },
+        {
+            "id": 46574081,
+            "organization_id": "MO620",
+            "url": "https:\/\/www.petfinder.com\/dog\/chutney-46574081\/mo\/house-springs\/camp-chaos-puppy-rescue-mo620\/?referrer_id=f8b0bae7-9948-4533-8806-757b84622693",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Hound",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Chutney",
+            "description": "You can fill out an adoption application online on our official website.~~For information on our adoption process and\/or to fill...",
+            "photos": [],
+            "status": "adoptable",
+            "status_changed_at": "2019-11-14T16:48:07+0000",
+            "published_at": "2019-11-14T16:48:07+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@campchaospuppyrescue.org",
+                "phone": null,
+                "address": {
+                    "address1": "P.O. Box 23",
+                    "address2": null,
+                    "city": "House Springs",
+                    "state": "MO",
+                    "postcode": "63051",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/46574081"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/mo620"
+                }
+            }
+        },
+        {
+            "id": 46573623,
+            "organization_id": "IL82",
+            "url": "https:\/\/www.petfinder.com\/dog\/bradley-46573623\/il\/wheaton\/dupage-county-animal-control-il82\/?referrer_id=f8b0bae7-9948-4533-8806-757b84622693",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Maltese",
+                "secondary": "Poodle",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Gray \/ Blue \/ Silver",
+                "secondary": "White \/ Cream",
+                "tertiary": null
+            },
+            "age": "Senior",
+            "gender": "Male",
+            "size": "Small",
+            "coat": "Short",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": true,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Bradley",
+            "description": "Our story with Bradley began when he was found outside, cold and lost, and brought to DCAS. Confused and frightened...",
+            "photos": [
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46573623\/1\/?bust=1573747850\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46573623\/1\/?bust=1573747850\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46573623\/1\/?bust=1573747850\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46573623\/1\/?bust=1573747850"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46573623\/2\/?bust=1573747852\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46573623\/2\/?bust=1573747852\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46573623\/2\/?bust=1573747852\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46573623\/2\/?bust=1573747852"
+                }
+            ],
+            "status": "adoptable",
+            "status_changed_at": "2019-11-14T16:47:59+0000",
+            "published_at": "2019-11-14T16:47:59+0000",
+            "distance": null,
+            "contact": {
+                "email": "animalservices@dupageco.org",
+                "phone": "(630) 407-2800",
+                "address": {
+                    "address1": "120 N. County Farm Road",
+                    "address2": null,
+                    "city": "Wheaton",
+                    "state": "IL",
+                    "postcode": "60187",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/46573623"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/il82"
+                }
+            }
+        },
+        {
+            "id": 46485475,
+            "organization_id": "VA123",
+            "url": "https:\/\/www.petfinder.com\/dog\/apollo-46485475\/va\/orange\/orange-county-animal-shelter-va123\/?referrer_id=f8b0bae7-9948-4533-8806-757b84622693",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Shepherd",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Black",
+                "secondary": "Yellow \/ Tan \/ Blond \/ Fawn",
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": "Medium",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": true,
+                "dogs": true,
+                "cats": true
+            },
+            "tags": [],
+            "name": "Apollo",
+            "description": "Apollo is a 8 year young Shepherd Mix. \nTo learn more about Solo please send a email inquiry to the...",
+            "photos": [
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46485475\/1\/?bust=1573749954\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46485475\/1\/?bust=1573749954\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46485475\/1\/?bust=1573749954\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46485475\/1\/?bust=1573749954"
+                }
+            ],
+            "status": "adoptable",
+            "status_changed_at": "2019-11-14T16:46:45+0000",
+            "published_at": "2019-11-14T16:46:45+0000",
+            "distance": null,
+            "contact": {
+                "email": "gjenkins@orangecountyva.gov",
+                "phone": "(540) 672-1124",
+                "address": {
+                    "address1": "11362 Porter Rd",
+                    "address2": null,
+                    "city": "Orange",
+                    "state": "VA",
+                    "postcode": "22960",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/46485475"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/va123"
+                }
+            }
+        },
+        {
+            "id": 46574044,
+            "organization_id": "MO324",
+            "url": "https:\/\/www.petfinder.com\/dog\/walton-46574044\/mo\/hollister\/taney-county-animal-care-and-control-mo324\/?referrer_id=f8b0bae7-9948-4533-8806-757b84622693",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Pit Bull Terrier",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Yellow \/ Tan \/ Blond \/ Fawn",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Large",
+            "coat": "Short",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": true,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": true,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Walton",
+            "description": null,
+            "photos": [
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574044\/2\/?bust=1573749984\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574044\/2\/?bust=1573749984\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574044\/2\/?bust=1573749984\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574044\/2\/?bust=1573749984"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574044\/1\/?bust=1573749982\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574044\/1\/?bust=1573749982\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574044\/1\/?bust=1573749982\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46574044\/1\/?bust=1573749982"
+                }
+            ],
+            "status": "adoptable",
+            "status_changed_at": "2019-11-14T16:46:39+0000",
+            "published_at": "2019-11-14T16:46:39+0000",
+            "distance": null,
+            "contact": {
+                "email": "sherry.simpson@co.taney.mo.us",
+                "phone": "(417) 332-0172",
+                "address": {
+                    "address1": "255 Critter Trail",
+                    "address2": null,
+                    "city": "Hollister",
+                    "state": "MO",
+                    "postcode": "65672",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/46574044"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/mo324"
+                }
+            }
+        },
+        {
+            "id": 46574067,
+            "organization_id": "VA96",
+            "url": "https:\/\/www.petfinder.com\/dog\/nikolai-46574067\/va\/charlottesville\/charlottesville-albemarle-spca-va96\/?referrer_id=f8b0bae7-9948-4533-8806-757b84622693",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Male",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Nikolai",
+            "description": "Hi, I\u0026amp;#39;m Nikolai! Here are a few reasons you\u0026amp;#39;re going to love me:\n\n* I love other dogs of all...",
+            "photos": [],
+            "status": "adoptable",
+            "status_changed_at": "2019-11-14T16:46:26+0000",
+            "published_at": "2019-11-14T16:46:26+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@caspca.org",
+                "phone": "(434) 973-5959",
+                "address": {
+                    "address1": "3355 Berkmar Dr.",
+                    "address2": null,
+                    "city": "Charlottesville",
+                    "state": "VA",
+                    "postcode": "22901",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/46574067"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/va96"
+                }
+            }
+        },
+        {
+            "id": 46574068,
+            "organization_id": "VA96",
+            "url": "https:\/\/www.petfinder.com\/dog\/sherman-46574068\/va\/charlottesville\/charlottesville-albemarle-spca-va96\/?referrer_id=f8b0bae7-9948-4533-8806-757b84622693",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Large",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Sherman",
+            "description": "Hi, my name is Sherman! Here are a few reasons you should pick me:\n\n* I love swimming pools! \n\n*...",
+            "photos": [],
+            "status": "adoptable",
+            "status_changed_at": "2019-11-14T16:46:26+0000",
+            "published_at": "2019-11-14T16:46:26+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@caspca.org",
+                "phone": "(434) 973-5959",
+                "address": {
+                    "address1": "3355 Berkmar Dr.",
+                    "address2": null,
+                    "city": "Charlottesville",
+                    "state": "VA",
+                    "postcode": "22901",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/46574068"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/va96"
+                }
+            }
+        },
+        {
+            "id": 46574065,
+            "organization_id": "IA14",
+            "url": "https:\/\/www.petfinder.com\/dog\/smiley-46574065\/ia\/des-moines\/animal-rescue-league-of-iowa-inc-ia14\/?referrer_id=f8b0bae7-9948-4533-8806-757b84622693",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Terrier",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Smiley",
+            "description": "Primary Color: Brown Secondary Color: White Weight: 23.7lbs Age: 2yrs 0mths 0wks Animal has been Neutered",
+            "photos": [],
+            "status": "adoptable",
+            "status_changed_at": "2019-11-14T16:46:25+0000",
+            "published_at": "2019-11-14T16:46:25+0000",
+            "distance": null,
+            "contact": {
+                "email": "social@arl-iowa.org",
+                "phone": null,
+                "address": {
+                    "address1": "5452 N.E. 22nd St.",
+                    "address2": null,
+                    "city": "Des Moines",
+                    "state": "IA",
+                    "postcode": "50313",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/46574065"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/ia14"
+                }
+            }
+        },
+        {
+            "id": 46574066,
+            "organization_id": "IA14",
+            "url": "https:\/\/www.petfinder.com\/dog\/roscoe-46574066\/ia\/des-moines\/animal-rescue-league-of-iowa-inc-ia14\/?referrer_id=f8b0bae7-9948-4533-8806-757b84622693",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Jack Russell Terrier",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Roscoe",
+            "description": "Primary Color: White Secondary Color: Brown Weight: 15lbs Age: 6yrs 0mths 0wks Animal has been Neutered",
+            "photos": [],
+            "status": "adoptable",
+            "status_changed_at": "2019-11-14T16:46:25+0000",
+            "published_at": "2019-11-14T16:46:25+0000",
+            "distance": null,
+            "contact": {
+                "email": "social@arl-iowa.org",
+                "phone": null,
+                "address": {
+                    "address1": "5452 N.E. 22nd St.",
+                    "address2": null,
+                    "city": "Des Moines",
+                    "state": "IA",
+                    "postcode": "50313",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/46574066"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/ia14"
+                }
+            }
+        },
+        {
+            "id": 46574064,
+            "organization_id": "IA14",
+            "url": "https:\/\/www.petfinder.com\/dog\/cheerio-46574064\/ia\/des-moines\/animal-rescue-league-of-iowa-inc-ia14\/?referrer_id=f8b0bae7-9948-4533-8806-757b84622693",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Australian Cattle Dog \/ Blue Heeler",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Cheerio",
+            "description": "Primary Color: Red Weight: 32.5lbs Age: 3yrs 0mths 1wks Animal has been Spayed",
+            "photos": [],
+            "status": "adoptable",
+            "status_changed_at": "2019-11-14T16:46:24+0000",
+            "published_at": "2019-11-14T16:46:24+0000",
+            "distance": null,
+            "contact": {
+                "email": "social@arl-iowa.org",
+                "phone": null,
+                "address": {
+                    "address1": "5452 N.E. 22nd St.",
+                    "address2": null,
+                    "city": "Des Moines",
+                    "state": "IA",
+                    "postcode": "50313",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/46574064"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/ia14"
+                }
+            }
+        },
+        {
+            "id": 46574061,
+            "organization_id": "NH54",
+            "url": "https:\/\/www.petfinder.com\/dog\/royce-46574061\/nh\/dover\/pope-memorial-humane-society-nh54\/?referrer_id=f8b0bae7-9948-4533-8806-757b84622693",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": false,
+                "dogs": null,
+                "cats": false
+            },
+            "tags": [],
+            "name": "Royce",
+            "description": "Hi there friends! I\u0026amp;#39;m Royce! I\u0026amp;#39;m a transport, which means that my friends at the Pope Memorial Humane Society took...",
+            "photos": [],
+            "status": "adoptable",
+            "status_changed_at": "2019-11-14T16:46:24+0000",
+            "published_at": "2019-11-14T16:46:24+0000",
+            "distance": null,
+            "contact": {
+                "email": "adoption@popememorialcvhs.org",
+                "phone": "(603) 749-5322",
+                "address": {
+                    "address1": "221 County Farm Road",
+                    "address2": null,
+                    "city": "Dover",
+                    "state": "NH",
+                    "postcode": "03820",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/46574061"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/nh54"
+                }
+            }
+        },
+        {
+            "id": 46574059,
+            "organization_id": "MD100",
+            "url": "https:\/\/www.petfinder.com\/dog\/biggie-46574059\/md\/baltimore\/the-maryland-spca-md100\/?referrer_id=f8b0bae7-9948-4533-8806-757b84622693",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Pit Bull Terrier",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Biggie",
+            "description": "Energy Level: Medium\nStrength Level: High\nWalks Best With: Martingale Collar \nIntake: Owner Surrender for owners eviction\nHistory: Lived with...",
+            "photos": [],
+            "status": "adoptable",
+            "status_changed_at": "2019-11-14T16:45:51+0000",
+            "published_at": "2019-11-14T16:45:51+0000",
+            "distance": null,
+            "contact": {
+                "email": "adoptme@mdspca.org",
+                "phone": "(410) 235-8826  ",
+                "address": {
+                    "address1": "3300 Falls Road",
+                    "address2": null,
+                    "city": "Baltimore",
+                    "state": "MD",
+                    "postcode": "21211",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/46574059"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/md100"
+                }
+            }
+        },
+        {
+            "id": 46574057,
+            "organization_id": "GA357",
+            "url": "https:\/\/www.petfinder.com\/dog\/pen-181-46574057\/ga\/lawrenceville\/gwinnett-county-animal-control-and-welfare-ga357\/?referrer_id=f8b0bae7-9948-4533-8806-757b84622693",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Beagle",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Pen 181",
+            "description": "Primary Color: Tri Color Weight: 31lbs Age: 1yrs 0mths 0wks Animal has been Neutered",
+            "photos": [],
+            "status": "adoptable",
+            "status_changed_at": "2019-11-14T16:45:46+0000",
+            "published_at": "2019-11-14T16:45:46+0000",
+            "distance": null,
+            "contact": {
+                "email": "animalwelfare@gwinnettcounty.com",
+                "phone": "(770) 339-3200",
+                "address": {
+                    "address1": "884 Winder Hwy (Rte 29)",
+                    "address2": null,
+                    "city": "Lawrenceville",
+                    "state": "GA",
+                    "postcode": "30045",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/46574057"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/ga357"
+                }
+            }
+        }
+    ],
+    "pagination": {
+        "count_per_page": 20,
+        "total_count": 5068648,
+        "current_page": 1,
+        "total_pages": 253433,
+        "_links": {
+            "next": {
+                "href": "\/v2\/animals?type=dog\u0026page=2"
+            }
+        }
+    }
+}
